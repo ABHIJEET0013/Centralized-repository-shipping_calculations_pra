@@ -1,20 +1,15 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Simple Interest Calculator
 
-Code Style:
-Maintain a consistent code style for readability.
+This project is a simple Bash-based calculator that computes simple interest based on user input.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Features
+- Accepts principal amount
+- Accepts rate of interest
+- Accepts time period
+- Calculates simple interest
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
-
-Code Review:
-All contributions undergo a code review process.
-
-Licensing:
-Contributions are licensed.
+## Author
+Your Name
